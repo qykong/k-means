@@ -1,2 +1,3 @@
 # k-means
 An implementation of k-means with Python for data mining course assignment.
+Because of using dictionary to store data, this program actually runs extremely slow.....
